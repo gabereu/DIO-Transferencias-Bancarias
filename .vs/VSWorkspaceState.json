@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\domain",
+    "\\src\\domain\\Classes",
+    "\\src\\domain\\Enum"
+  ],
+  "SelectedNode": "\\src\\domain\\Enum\\AccountType.cs",
+  "PreviewInSolutionExplorer": false
+}
